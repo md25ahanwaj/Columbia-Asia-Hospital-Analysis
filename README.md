@@ -4,11 +4,12 @@
 1. [Project Description](#project-description)
 2. [Data Overview](#data-overview)
 3. [Methodology](#methodology)
-4. [Problem Statement](#problem-statement)
-5. [Insights and Recommendations](#insights-and-recommendations)
-6. [How to Use This Project](#how-to-use-this-project)
-7. [Conclusion](#conclusion)
-8. [Contact](#contact)
+4. [Report](#report)
+5. [Problem Statement](#problem-statement)
+6. [Insights and Recommendations](#insights-and-recommendations)
+7. [How to Use This Project](#how-to-use-this-project)
+8. [Conclusion](#conclusion)
+9. [Contact](#contact)
 
 ## Project Description
 Columbia Asia Hospital is renowned for its exceptional patient-centered care and advanced medical expertise. This project aims to analyze hospital data to improve strategic decision-making and patient experience. The focus is on understanding department performance, wait times, patient demographics, and revenue to provide actionable insights for operational improvements and strategic planning.
@@ -31,6 +32,20 @@ Both datasets, each with over 6000 rows, were imported into Microsoft Power BI f
 - **Measure Creation:** Developed DAX measures for key performance indicators (e.g., SUM, AVERAGE, RELATED, CALCULATE).
 - **Visualization:** Created various visualizations to present insights.
 
+## Report
+The Power BI report provides interactive visualizations to explore the hospital data. Key features include:
+
+![![image](https://github.com/user-attachments/assets/4a2cfb83-5a85-4357-9a93-bb5213237c00)]
+[![image](https://github.com/user-attachments/assets/7c90c67a-0239-4eee-824a-485f4ffd831b)]
+[![image](https://github.com/user-attachments/assets/0a3b7933-ebd4-4342-a91f-aa26e572ceb7)]
+(https://app.powerbi.com/groups/me/reports/281bbaa4-a480-44f6-a4b4-6e24ed06059b/ReportSection8b85d17aee27a214650d?experience=power-bi)
+
+- **Geographical Distribution Map:** Visualizes hospital locations and patient distribution across different regions.
+- **Department Visits Chart:** Displays the number of visits per department, highlighting high-traffic areas such as General Practice and Orthopedics.
+- **Visitor Gender Distribution Pie Chart:** Shows the gender breakdown of hospital visits, illustrating an equitable distribution.
+- **Satisfaction Scores Chart:** Presents average satisfaction ratings for each department, aiding in assessing service quality.
+- **Profitability Analysis:** Provides a visual representation of the hospital's profitability and financial performance.
+
 ## Problem Statement
 The hospital sought key insights to:
 - Identify suitable departments for new hires.
@@ -47,7 +62,7 @@ The hospital sought key insights to:
 - **Efficiency:** Improve staffing to enhance service delivery and patient satisfaction.
 - **Revenue:** Better staffing may lead to increased revenue through improved patient care.
 
-**Discount Strategies:** Recommend offering discounts based on patient satisfaction scores, with those scoring above 6 eligible for discounts. This approach compensates for the lack of specific cost data.
+**Discount Strategies** We recommend offering discounts based on patient satisfaction scores, with those scoring above 6 eligible for discounts. This approach compensates for the lack of specific cost data.
 
 **Hospital Profitability:** Current data indicates a profit margin of 0, suggesting a need for financial strategy adjustments.
 
@@ -57,13 +72,13 @@ The hospital sought key insights to:
 This optimized shift scheduling addresses high patient traffic and enhances operational efficiency.
 
 ## How to Use This Project
-- **Open Power BI File:** The project is available as a Power BI file with cleaned data, visualizations, and interactive dashboards.
-- **Explore the Dashboard:** Use the interactive elements to delve into various data insights.
+- **Open Power BI File:** The project is available as a Power BI file with cleaned data, visualizations, and interactive reports.
+- **Explore the Report:** Use the interactive elements to delve into various data insights.
 - **Review Visualizations:** Analyze charts and graphs to understand key metrics and trends.
-- **Apply Filters:** Customize the analysis by applying filters based on specific criteria or time periods.
+- **Apply Filters:** Customize the analysis by applying filters based on specific criteria or periods.
 
 ## Conclusion
-The analysis of Columbia Asia Hospital's dataset has provided valuable insights into patient demographics, departmental performance, and revenue. Key findings include the need for strategic staffing, targeted discounts, and optimized shift scheduling. Implementing these recommendations will enhance operational efficiency and patient satisfaction, driving informed decision-making and supporting the hospital's growth.
+Analyzing Columbia Asia Hospital's dataset has provided valuable insights into patient demographics, departmental performance, and revenue. Key findings include the need for strategic staffing, targeted discounts, and optimized shift scheduling. Implementing these recommendations will enhance operational efficiency and patient satisfaction, driving informed decision-making and supporting the hospital's growth.
 
 ## Contact
 For any questions or further information, please contact:

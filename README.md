@@ -38,7 +38,7 @@ The Power BI report provides interactive visualizations to explore the hospital 
 ![![image](https://github.com/user-attachments/assets/4a2cfb83-5a85-4357-9a93-bb5213237c00)]
 [![image](https://github.com/user-attachments/assets/7c90c67a-0239-4eee-824a-485f4ffd831b)]
 [![image](https://github.com/user-attachments/assets/0a3b7933-ebd4-4342-a91f-aa26e572ceb7)]
-(https://app.powerbi.com/groups/me/reports/281bbaa4-a480-44f6-a4b4-6e24ed06059b/ReportSection8b85d17aee27a214650d?experience=power-bi)
+- **Report:** [Report Link](https://app.powerbi.com/groups/me/reports/281bbaa4-a480-44f6-a4b4-6e24ed06059b/ReportSection8b85d17aee27a214650d?experience=power-bi)
 
 - **Geographical Distribution Map:** Visualizes hospital locations and patient distribution across different regions.
 - **Department Visits Chart:** Displays the number of visits per department, highlighting high-traffic areas such as General Practice and Orthopedics.

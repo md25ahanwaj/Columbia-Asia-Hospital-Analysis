@@ -35,15 +35,15 @@ Both datasets, each with over 6000 rows, were imported into Microsoft Power BI f
 ## Report
 The Power BI report provides interactive visualizations to explore the hospital data. Key features include:
 
-![![image](https://github.com/user-attachments/assets/4a2cfb83-5a85-4357-9a93-bb5213237c00)]
-[![image](https://github.com/user-attachments/assets/7c90c67a-0239-4eee-824a-485f4ffd831b)]
-[![image](https://github.com/user-attachments/assets/0a3b7933-ebd4-4342-a91f-aa26e572ceb7)]
-- **Report:** [Report Link](https://app.powerbi.com/groups/me/reports/281bbaa4-a480-44f6-a4b4-6e24ed06059b/ReportSection8b85d17aee27a214650d?experience=power-bi)
+[![image](https://github.com/user-attachments/assets/11b2deb3-6e69-4d62-bff8-c1b39af9d6a0)]
+[![image](https://github.com/user-attachments/assets/4848e312-336f-49f8-a841-b4e40d4f8aec)]
+[![image](https://github.com/user-attachments/assets/b1f2424b-04d4-4584-84e9-e13f6224bf92)]
+- **Report:** [Report Link](https://app.powerbi.com/groups/me/reports/281bbaa4-a480-44f6-a4b4-6e24ed06059b/ReportSection3677eff0fed4e1434322?experience=power-bi)
 
 - **Geographical Distribution Map:** Visualizes hospital locations and patient distribution across different regions.
-- **Department Visits Chart:** Displays the number of visits per department, highlighting high-traffic areas such as General Practice and Orthopedics.
+**Department Visits Chart:** This chart displays the number of visits per department, highlighting high-traffic areas such as General Practice and Orthopedics.
 - **Visitor Gender Distribution Pie Chart:** Shows the gender breakdown of hospital visits, illustrating an equitable distribution.
-- **Satisfaction Scores Chart:** Presents average satisfaction ratings for each department, aiding in assessing service quality.
+**Satisfaction Scores Chart:** This chart presents average satisfaction ratings for each department, aiding in assessing service quality.
 - **Profitability Analysis:** Provides a visual representation of the hospital's profitability and financial performance.
 
 ## Problem Statement
